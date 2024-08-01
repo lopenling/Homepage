@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h3 align="center">New Project Template</h3>
+<h3 align="center">lopenling.com homepage</h3>
 
 <p align="center">
   
@@ -23,15 +23,17 @@
 
 ## :floppy_disk: Description
 
-A template repository for all Lopen Ling repos. Replace the content in this section with the title of your project.
+Homepage of lopenling.com
 
 ## :grin: Owner
 
 [@mikkokotila](https://github.com/mikkokotila.com)
 
+[@mcsneaky](https://github.com/mcsneaky.com)
+
 ## :closed_book: Docs
 
-Replace the content in this section with the title of your project.
+Based on [TailwindUI components](https://tailwindui.com/components)
 
 ## :speech_balloon: Get Help
 
